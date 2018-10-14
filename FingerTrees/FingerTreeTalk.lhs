@@ -111,3 +111,4 @@ Convert all the functions to use the more efficient Digit data type defined belo
 
 Some of the definitions may get a bit complex, and you may find it easier to use template haskell to generate those definitions. 
 
+This is everything that I covered in the talk, the paper proves some of the bounds and goes on to talk about measurements (adding values to nodes eg. for weighting/ordering them) and to show some typical applications of them.
